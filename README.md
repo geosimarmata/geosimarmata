@@ -1,7 +1,8 @@
 <!-- 🔥 Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Geo+Saragih;Data+Engineer+in+Progress+🚀;Automation+%7C+Dashboards+%7C+Clean+Data+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Geo+Saragih;Data+Engineer+in+Progress+🚀" alt="Typing SVG" />
 </h1>
+
 
 <!-- 🔗 Social Icons -->
 <p align="center">
