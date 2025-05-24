@@ -1,64 +1,58 @@
-<!-- Hero Typing Banner -->
+<!-- 🔥 Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Geo+Saragih;Aspiring+Data+Engineer+🚀;Automation+%7C+Dashboards+%7C+Clean+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Geo+Saragih;Data+Engineer+in+Progress+🚀;Automation+%7C+Dashboards+%7C+Clean+Data+Pipelines" alt="Typing SVG" />
 </h1>
 
----
-
-## 👨‍💻 Who Am I?
-
-```yaml
-Name: Geo Saragih
-Role: Data Engineer in Progress
-Industry: Logistics, Telecom, Financial Services
-Core Tools: Python, SQL, Streamlit, Pandas, Git
-Fun fact: Turned vendor chaos into dashboard clarity 🤓
-```
-
----
-
-## 📍 Highlights
-
-- 🏢 Currently: Business Intelligence @ Jeje Harapan Transindo  
-- 🎓 B.Eng in Telecommunication Engineering, ITB  
-- 🧠 Passion for simplifying data workflows and automating manual processes  
-- 📦 Background in logistics data, infrastructure monitoring & BI dashboards  
-- 💡 Interests: backend data systems, real-time APIs, clean UIs for ops teams  
-
----
-
-## 🛠️ Tech Toolbox
-
+<!-- 🔗 Social Icons -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-grey?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📦 My Projects
+## 👨‍💼 About Me
 
-### 🚛 [Vendor Tiering Dashboard](https://github.com/geosimarmata/vendor-tiering-dashboard)
-> Python + Streamlit dashboard to classify vendors by cost across 150+ routes.
-- Reduced manual errors by over 80%  
-- Real-time filtering, Excel parsing, auto CSV export  
-
-> 🔗 _[View the repo](https://github.com/geosimarmata/vendor-tiering-dashboard)_ • _Live demo coming soon_
+```yaml
+Name: Geo Saragih
+Location: Indonesia 🇮🇩
+Education: B.Eng in Telecommunication Engineering (ITB)
+Current Role: Business Intelligence @ PT Jeje Harapan Transindo
+Focus Areas:
+  - Data Engineering
+  - Data Automation & ETL Pipelines
+  - Dashboard Development
+  - Real-time Monitoring & Infrastructure Data
+Tech Stack:
+  - Python, SQL, Pandas, Streamlit, Grafana, LibreNMS
+Soft Skills:
+  - Problem Solving, Analytical Thinking, Communication
+```
 
 ---
 
-## 🎯 Goals for 2025
+## 🛠 Tech Stack
 
-- ✅ Learn Airflow & orchestration tools  
-- ✅ Build a real-time data pipeline with APIs  
-- 📦 Deploy projects with Docker  
-- 💼 Land a Data Engineer role with a company solving real problems  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🔧 [Vendor Tiering Dashboard](https://github.com/geosimarmata/vendor-tiering-dashboard)
+> A Streamlit dashboard that automates procurement optimization across 150+ trucking routes.
+
+- ⏱ Reduced manual errors by 80% through automated tiering logic
+- 📊 Parsed and cleaned messy vendor Excel data with Python + Pandas
+- 🖥 Delivered interactive filtering, export-ready UI for internal ops team
 
 ---
 
@@ -75,38 +69,28 @@ Fun fact: Turned vendor chaos into dashboard clarity 🤓
 
 ---
 
-## 📚 Certificates & Learning
+## 📌 Certificates & Real-World Experience
 
-- 📜 Data Engineering Virtual Internship – BTPN  
-- 📜 Business Intelligence Project – Bank Muamalat  
-- 🧠 Learning in public via GitHub: automation, pipelines, APIs  
-
----
-
-## 🎮 What I’m Exploring Now
-
-| Area               | Focus                                       |
-|--------------------|---------------------------------------------|
-| Data Engineering   | ETL, SQL, Airflow, dbt                      |
-| Backend APIs       | Python FastAPI, authentication              |
-| DevOps             | Docker, GitHub Actions                      |
-| Dashboards         | Streamlit, Grafana                          |
+- 🔹 Business Intelligence Intern – PT Jeje Harapan Transindo  
+- 🔹 Infrastructure Research – PT Telkom Indonesia  
+- 🔹 Data Engineer Internship – BTPN Virtual Internship  
+- 🔹 BI Project – Bank Muamalat Indonesia
 
 ---
 
-## 🤝 Let's Connect
+## 🧠 What I’m Exploring
 
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+| Area               | Tools/Focus                             |
+|--------------------|------------------------------------------|
+| Data Engineering   | ETL, SQL, dbt, Airflow                   |
+| Dashboarding       | Streamlit, Grafana, Tableau              |
+| APIs & Automation  | Python scripting, REST APIs             |
+| Monitoring         | LibreNMS, system optimization            |
 
 ---
-
-## 💬 Fun Footer
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Make+data+useful%2C+not+just+available." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Automate+what+you+hate+doing+twice." />
   <br>
-  <sub>Updated regularly — powered by ☕ and pandas.</sub>
+  <sub>Last updated: May 2025 — crafted with ☕ and clean YAML.</sub>
 </div>
